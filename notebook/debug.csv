@@ -1,0 +1,17 @@
+Template,AssetClass,Datasets,SelectProduct
+AMI Testing - Staff Data (All Except HF and Alt) - Latest Quarter,Equity,,Yes
+AMI Testing - Staff Data (All Except HF and Alt) - Latest Quarter,Fixed Income,,Yes
+AMI Testing - Staff Data (All Except HF and Alt) - Latest Quarter,Real Estate,,Yes
+AMI Testing - Staff Data (All Except HF and Alt) - Latest Quarter,Balanced/Multi-Asset,,Yes
+AMI Testing - Product AUM Flows (FI & MAC & Real Estate) - Latest Quarter,Fixed Income,,Yes
+AMI Testing - Product AUM Flows (FI & MAC & Real Estate) - Latest Quarter,Real Estate,,Yes
+AMI Testing - Product AUM Flows (FI & MAC & Real Estate) - Latest Quarter,Balanced/Multi-Asset,,Yes
+AMI Testing - Product AUM Flows (Equities US & APAC) - Latest Quarter,Equity,United States,Yes
+AMI Testing - Product AUM Flows (Equities US & APAC) - Latest Quarter,Equity,Asia Pacific,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Global / Multi-Region,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Europe,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Canada,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Japan,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Australia,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,United Kingdom,Yes
+AMI Testing - Product AUM Flows (Equities Non US & APAC) - Latest Quarter,Equity,Africa/South Africa,Yes
